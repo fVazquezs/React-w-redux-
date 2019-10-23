@@ -1,0 +1,20 @@
+{
+  "streams": [
+    {
+      "title": "CSGO",
+      "description": "CSGO #1",
+      "id": 1
+    },
+    {
+      "title": "Other Streams",
+      "description": "This is another stream",
+      "id": 2
+    },
+    {
+      "title": "Lol",
+      "description": "lolzin",
+      "userId": "110545974303371279869",
+      "id": 3
+    }
+  ]
+}
